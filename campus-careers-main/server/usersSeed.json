@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "recruiter1",
+    "email": "recruiter1@example.com",
+    "name": "John Doe",
+    "role": "recruiter",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "disabled": false
+  },
+  {
+    "uid": "recruiter2",
+    "email": "recruiter2@example.com",
+    "name": "Jane Smith",
+    "role": "recruiter",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "disabled": false
+  },
+  {
+    "uid": "seeker1",
+    "email": "seeker1@example.com",
+    "name": "Alice Johnson",
+    "role": "seeker",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "disabled": false
+  },
+  {
+    "uid": "seeker2",
+    "email": "seeker2@example.com",
+    "name": "Bob Brown",
+    "role": "seeker",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "disabled": false
+  },
+  {
+    "uid": "admin1",
+    "email": "admin@example.com",
+    "name": "Admin User",
+    "role": "admin",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "disabled": false
+  }
+]

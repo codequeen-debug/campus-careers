@@ -22,8 +22,8 @@ export function AuthProvider({ children }) {
       name,
       email,
       role,
+      status: "Active",
       createdAt: new Date().toISOString(),
-      disabled: false
     };
     await setDoc(doc(db, "users", result.user.uid), userDoc);
     setUserData(userDoc);

@@ -7,7 +7,11 @@ function useLocalStorage(key, initial) {
   const [state, setState] = useState(() => {
     try {
       const stored = localStorage.getItem(key);
-      return stored ? JSON.parse(stored) : initial;
+      if (!stored) return initial;
+      const parsed = JSON.parse(stored);
+      // If stored value is an empty array, use the initial seed instead
+      if (Array.isArray(parsed) && parsed.length === 0) return initial;
+      return parsed;
     } catch { return initial; }
   });
   useEffect(() => { localStorage.setItem(key, JSON.stringify(state)); }, [key, state]);
@@ -34,6 +38,11 @@ export default function BrowseJobs() {
   const [editingId, setEditingId] = useState(null);
   const [form, setForm] = useState(EMPTY_FORM);
   const [selectedJob, setSelectedJob] = useState(null);
+
+  // Re-seed if localStorage is empty
+  useEffect(() => {
+    if (jobs.length === 0) setJobs(mockJobs);
+  }, []);
 
   // Open job from Home page featured card click
   useEffect(() => {

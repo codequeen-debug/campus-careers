@@ -1,0 +1,118 @@
+export const mockJobs = [
+  {
+    id: "1",
+    title: "Assistant Professor of Computer Science",
+    institution: "State University",
+    department: "Computer Science",
+    location: "Austin, TX",
+    salaryMin: 85000,
+    salaryMax: 105000,
+    type: "Full-time",
+    description: "We are seeking a dynamic Assistant Professor to join our Computer Science department. The ideal candidate will have expertise in machine learning, algorithms, or software engineering, and a strong commitment to both research and undergraduate teaching.",
+    qualifications: "PhD in Computer Science or related field. Evidence of teaching excellence. Active research agenda with publications in peer-reviewed venues.",
+    deadline: "2025-06-30",
+    startDate: "2025-08-15",
+    recruiterId: "recruiter1",
+    postedDate: "2025-04-01"
+  },
+  {
+    id: "2",
+    title: "Director of Financial Aid",
+    institution: "Lakewood College",
+    department: "Financial Services",
+    location: "Denver, CO",
+    salaryMin: 72000,
+    salaryMax: 90000,
+    type: "Full-time",
+    description: "Lakewood College seeks an experienced Director of Financial Aid to oversee all aspects of the financial aid office, including federal compliance, counseling, and award packaging for 4,000+ students.",
+    qualifications: "Master's degree preferred. 5+ years of progressive financial aid experience. Knowledge of Title IV regulations required.",
+    deadline: "2025-05-15",
+    startDate: "2025-07-01",
+    recruiterId: "recruiter1",
+    postedDate: "2025-03-28"
+  },
+  {
+    id: "3",
+    title: "Head Athletic Trainer",
+    institution: "Riverside University",
+    department: "Athletics",
+    location: "Orlando, FL",
+    salaryMin: 58000,
+    salaryMax: 72000,
+    type: "Full-time",
+    description: "Riverside University Athletics is searching for a Head Athletic Trainer to provide comprehensive sports medicine services for 18 NCAA Division II athletic programs.",
+    qualifications: "BOC certification required. Master's degree in Athletic Training or related field. Minimum 3 years of collegiate athletic training experience.",
+    deadline: "2025-05-30",
+    startDate: "2025-08-01",
+    recruiterId: "recruiter2",
+    postedDate: "2025-04-02"
+  },
+  {
+    id: "4",
+    title: "Instructional Designer",
+    institution: "Metro Community College",
+    department: "Center for Teaching & Learning",
+    location: "Chicago, IL",
+    salaryMin: 55000,
+    salaryMax: 68000,
+    type: "Full-time",
+    description: "Metro Community College seeks a creative Instructional Designer to collaborate with faculty in developing engaging online and hybrid courses using Canvas LMS and modern pedagogical approaches.",
+    qualifications: "Bachelor's required, Master's preferred in Instructional Design, Educational Technology, or related field. Experience with Canvas, Articulate Storyline, or similar tools.",
+    deadline: "2025-05-20",
+    startDate: "2025-06-15",
+    recruiterId: "recruiter2",
+    postedDate: "2025-03-25"
+  },
+  {
+    id: "5",
+    title: "Vice President for Student Affairs",
+    institution: "Northern Liberal Arts College",
+    department: "Student Affairs",
+    location: "Burlington, VT",
+    salaryMin: 120000,
+    salaryMax: 155000,
+    type: "Full-time",
+    description: "Northern Liberal Arts College invites applications for the position of Vice President for Student Affairs, a cabinet-level role responsible for the overall student experience and a staff of 60+.",
+    qualifications: "Doctorate required. Minimum 10 years in student affairs with progressive leadership experience. Strong commitment to diversity, equity, and inclusion.",
+    deadline: "2025-06-01",
+    startDate: "2025-08-01",
+    recruiterId: "recruiter1",
+    postedDate: "2025-04-03"
+  },
+  {
+    id: "6",
+    title: "Library Systems Administrator",
+    institution: "Tech Institute",
+    department: "University Library",
+    location: "Seattle, WA",
+    salaryMin: 65000,
+    salaryMax: 80000,
+    type: "Full-time",
+    description: "The Tech Institute Library seeks a skilled Systems Administrator to manage our integrated library system, digital repositories, and discovery platforms serving 12,000 students and faculty.",
+    qualifications: "MLS from ALA-accredited program or equivalent. Experience with Ex Libris Alma/Primo or similar ILS. Strong technical background in library systems.",
+    deadline: "2025-05-25",
+    startDate: "2025-07-15",
+    recruiterId: "recruiter2",
+    postedDate: "2025-03-30"
+  }
+];
+
+export const categories = [
+  "All Categories",
+  "Computer Science",
+  "Financial Services",
+  "Athletics",
+  "Teaching & Learning",
+  "Student Affairs",
+  "Library"
+];
+
+export const locations = [
+  "All Locations",
+  "Austin, TX",
+  "Denver, CO",
+  "Orlando, FL",
+  "Chicago, IL",
+  "Burlington, VT",
+  "Seattle, WA"
+];

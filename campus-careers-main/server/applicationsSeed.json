@@ -1,0 +1,26 @@
+[
+  {
+    "jobId": "1",
+    "seekerId": "seeker1",
+    "coverLetter": "I am very interested in this position and believe my skills match well.",
+    "resume": "resume_link_here",
+    "dateApplied": "2025-04-01T00:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "jobId": "2",
+    "seekerId": "seeker2",
+    "coverLetter": "With my experience in financial aid, I am excited to apply for this role.",
+    "resume": "resume_link_here",
+    "dateApplied": "2025-04-02T00:00:00.000Z",
+    "status": "pending"
+  },
+  {
+    "jobId": "3",
+    "seekerId": "seeker1",
+    "coverLetter": "My background in athletic training makes me a great fit for this position.",
+    "resume": "resume_link_here",
+    "dateApplied": "2025-04-03T00:00:00.000Z",
+    "status": "pending"
+  }
+]

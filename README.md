@@ -113,9 +113,10 @@ Apply for jobs
 Track applications
 
 # Communication
-<img width="79<img width="799" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/05d37954-9e85-40ed-b197-24b37ec51912" />
+<img width="79<img width="599" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/05d37954-9e85-40ed-b197-24b37ec51912" />
 
-<img width="799" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/aed72f84-7d7b-4294-9e44-061c7320dfc6" />
+<img width="599" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/aed72f84-7d7b-4294-9e44-061c7320dfc6" />
+
 
 # UML
 <img width="900" height="1080" alt="image" src="https://github.com/user-attachments/assets/4358e8c9-c21e-4c5f-9c40-4c6046666328" />
@@ -171,6 +172,9 @@ Use Case Diagram
                  /        \
            browse jobs   apply to jobs
            
+# Structural Design
+<img width="711" height="763" alt="image" src="https://github.com/user-attachments/assets/63696b20-2823-4a68-acad-bb9c7cbd7266" />
+
 
 # Development Stages
 Stage 1: Frontend + Firebase Auth

@@ -260,5 +260,12 @@ Git and deployment workflows
 
 Real-world system design thinking
 
+# Members
+
+    Rich-Ann Campbell - PM
+    Makayla Hardware
+    Sara-Lee Brown
+
+
 # Demo 
 to be uploaded

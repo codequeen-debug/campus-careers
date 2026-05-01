@@ -75,9 +75,9 @@ Apply for jobs
 Track applications
 
 #Communication
-<img width="79<img width="799" height="799" alt="IMG_5829" src="https://github.com/user-attachments/assets/05d37954-9e85-40ed-b197-24b37ec51912" />
+<img width="79<img width="799" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/05d37954-9e85-40ed-b197-24b37ec51912" />
 
-<img width="799" height="799" alt="IMG_5829" src="https://github.com/user-attachments/assets/aed72f84-7d7b-4294-9e44-061c7320dfc6" />
+<img width="799" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/aed72f84-7d7b-4294-9e44-061c7320dfc6" />
 
 
 # Component Architecture

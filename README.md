@@ -56,13 +56,15 @@ Recruiters to manage job listings
 Job seekers to browse and apply for jobs
 Admins to monitor system activity
 User Roles & Permissions
- Admin
+
+ Admin:
 Manage all users
 View all job postings
 Remove inappropriate content
 Disable recruiter/job seeker accounts
 Monitor system activity
- Recruiter / Employer
+
+ Recruiter / Employer:
 Create company profiles
 Post new jobs
 Edit/delete job listings
@@ -74,7 +76,7 @@ Browse and filter jobs
 Apply for jobs
 Track applications
 
-#Communication
+# Communication
 <img width="79<img width="799" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/05d37954-9e85-40ed-b197-24b37ec51912" />
 
 <img width="799" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/aed72f84-7d7b-4294-9e44-061c7320dfc6" />

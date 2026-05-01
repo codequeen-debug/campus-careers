@@ -53,8 +53,11 @@ System architecture principles
 Universities need centralized platforms to manage academic and administrative job postings. Existing solutions like HigherEdJobs are complex, so this project builds a simplified but functional system that allows:
 
 Recruiters to manage job listings
+
 Job seekers to browse and apply for jobs
+
 Admins to monitor system activity
+
 User Roles & Permissions
 
  Admin:

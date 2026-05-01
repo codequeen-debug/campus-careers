@@ -4,7 +4,8 @@ A HigherEdJobs-Style Full-Stack Web Application
 # Live Links
 Frontend (Live App): https://campus-careers-roan.vercel.app/
 
-Backend API: campus-backend-production-ba61.up.railway.app
+Backend: campus-backend-production-ba61.up.railway.app
+
 
 > https://campus-backend-production-ba61.up.railway.app/api/jobs
 > https://campus-backend-production-ba61.up.railway.app/api/users

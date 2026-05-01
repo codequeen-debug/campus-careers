@@ -117,6 +117,10 @@ Track applications
 
 <img width="799" height="899" alt="IMG_5829" src="https://github.com/user-attachments/assets/aed72f84-7d7b-4294-9e44-061c7320dfc6" />
 
+# UML
+<img width="900" height="1080" alt="image" src="https://github.com/user-attachments/assets/4358e8c9-c21e-4c5f-9c40-4c6046666328" />
+
+
 
 # Component Architecture
 [ React Frontend ]

@@ -22,13 +22,21 @@ you@university.edu
 
 PW: 123456
 
-RECRUITED (APPROVED)
+RECRUITER (APPROVED)
 
 Mary Jane
 
 you@workplace.org
 
 PW: 123456
+
+RECRUITER (UNAPPROVED)
+Libra King
+
+libraking@ncf.edu
+
+PW: 123456
+
 
 ADMIN
 

@@ -3,24 +3,26 @@ A HigherEdJobs-Style Full-Stack Web Application
 
 # Live Links
 Frontend (Live App): https://campus-careers-roan.vercel.app/
+
 Backend API: [add Render/Railway link here]
+
 GitHub Repository: https://github.com/codequeen-debug/campus-careers
 
 # Login
 SEEKER
 JessicaBrown
 you@university.edu
-123456
+PW: 123456
 
 RECRUITED (APPROVED)
 Mary Jane
 you@workplace.org
-123456
+PW: 123456
 
 ADMIN
 Parker Johnson
 you@admin.org
-123456
+PW: 123456
 
 
 
@@ -73,8 +75,9 @@ Apply for jobs
 Track applications
 
 #Communication
-<img width="79<img width="1179" height="2556" alt="IMG_5829" src="https://github.com/user-attachments/assets/05d37954-9e85-40ed-b197-24b37ec51912" />
-9" height="756" alt="IMG_5831" src="https://github.com/user-attachments/assets/505c2e2f-5da8-4d09-b8e3-a82db7368b3e" />
+<img width="79<img width="799" height="799" alt="IMG_5829" src="https://github.com/user-attachments/assets/05d37954-9e85-40ed-b197-24b37ec51912" />
+
+<img width="799" height="799" alt="IMG_5829" src="https://github.com/user-attachments/assets/aed72f84-7d7b-4294-9e44-061c7320dfc6" />
 
 
 # Component Architecture

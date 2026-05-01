@@ -11,7 +11,6 @@ Backend: campus-backend-production-ba61.up.railway.app
 > https://campus-backend-production-ba61.up.railway.app/api/users
 > https://campus-backend-production-ba61.up.railway.app/api/applications
 
-GitHub Repository: https://github.com/codequeen-debug/campus-careers
 
 # Login
 
@@ -260,3 +259,6 @@ Frontend-backend integration
 Git and deployment workflows
 
 Real-world system design thinking
+
+# Demo 
+to be uploaded

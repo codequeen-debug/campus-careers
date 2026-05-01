@@ -4,7 +4,7 @@ A HigherEdJobs-Style Full-Stack Web Application
 # Live Links
 Frontend (Live App): https://campus-careers-roan.vercel.app/
 
-Backend API: https://campus-backend-12y9.onrender.com/
+Backend API: campus-backend-production-ba61.up.railway.app
 
 GitHub Repository: https://github.com/codequeen-debug/campus-careers
 

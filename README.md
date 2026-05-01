@@ -6,6 +6,10 @@ Frontend (Live App): https://campus-careers-roan.vercel.app/
 
 Backend API: campus-backend-production-ba61.up.railway.app
 
+> https://campus-backend-production-ba61.up.railway.app/api/jobs
+> https://campus-backend-production-ba61.up.railway.app/api/users
+> https://campus-backend-production-ba61.up.railway.app/api/applications
+
 GitHub Repository: https://github.com/codequeen-debug/campus-careers
 
 # Login

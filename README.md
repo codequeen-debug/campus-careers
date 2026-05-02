@@ -279,6 +279,14 @@ Real-world system design thinking
 
 
 
+https://github.com/user-attachments/assets/4b926afa-a5f1-4473-96dd-063085957d2f
+
+
+
+
+
+
+
 
 
 
